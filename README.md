@@ -52,5 +52,5 @@ This dashboard helps stakeholders make data-driven decisions to improve efficien
 
 
 ## 🙌 Author
-*Your Name*  
+*Nasren cruze*  
 Data Analyst | Power BI | Excel | SQL
